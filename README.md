@@ -5,9 +5,9 @@ Migrate romdrop from one definition / patched roms to the latest
 
 Create directories with your current metadata xmls, stock ROMs, and romdrop-patched stock ROMs.  All ROM files should have a .bin extension.  These directories should be called:
 
-metadata_input
-patched_roms_input
-stock_roms
+* metadata_input
+* patched_roms_input
+* stock_roms
 
 Next, run the upgrade script (OSX/Linux only, Windows PS / bat file TBD):
 
